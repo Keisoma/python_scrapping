@@ -1,5 +1,6 @@
 # Scrapping League of Legends
 Projet d'initiation à BeautifulSoup4 ayant pour but de récupérer les données des champions de League of Legends venant du site OP.gg afin de récupérer leurs statistiques de popularité, bannissements et leurs éventuels contres.  
+Une analyse de données permettra de chercher des corrélations entre les différentes stats de chaque personnage.
 ## Versions du projet
 ### v0
 La version 0 est un simple Jupyter Notebook allant sur la page OP.gg et qui va récupérer les données pour les champions allant sur la ligne du haut et print les résultats. </br>
