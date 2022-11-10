@@ -18,7 +18,7 @@ Pour le faire fonctionner: </br>
 </t> `python .\scrapping.py`
 
 ### v2
-La version 2 est un script permettant à l'utilisateur de définir pour quel rôle il souhaite récupérer les données grâce à un argument argparse, et le script effectuera le scrapping sur le rôle approprié et intègrera les résultats dans une table associée au rôle en question.
+La version 2 est un script permettant à l'utilisateur de définir pour quel rôle il souhaite récupérer les données grâce à un argument argparse, et le script effectuera le scrapping sur le rôle approprié et intègrera les résultats dans une table associée au rôle en question. Elle contient aussi une analyse de données sous la forme d'un jupyter notebook permettant de déterminer des corrélations entre les différentes statistiques des personnages.
 
 Pour le faire fonctionner: </br>
 1. Se positionner dans le dossier v2, et initialiser la base de données </br>
