@@ -30,7 +30,7 @@ Pour le faire fonctionner: </br>
     3. `-m` ou `--mid` récupèrera les données associées aux mid laners  
     4. `-a` ou `--adc` récupèrera les données associées aux ADC  
     5. `-s` ou `--support` récupèrera les données associées aux supports  
-3. Pour faire fonctionner l'analyse de données, il faut avoir importé au moins la table "top" car c'est sur celle ci qu'elle se porte.
+3. Pour faire fonctionner l'analyse de données, il faut avoir importé au moins la table "top" car c'est sur celle ci qu'elle se porte.  
 exemples :  
 1. `python .\main.py -t`
 2. `python .\main.py --top` 
